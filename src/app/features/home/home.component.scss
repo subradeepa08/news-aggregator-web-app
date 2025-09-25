@@ -39,6 +39,10 @@ mat-card-content p {
   text-overflow: ellipsis;
 }
 
+.mat-mdc-card-subtitle {
+  --mat-card-subtitle-text-color : grey;
+}
+
 .filter-status {
   margin: 1rem 0;
 }
