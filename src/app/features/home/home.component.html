@@ -1,0 +1,34 @@
+<div class="news-grid" >
+    <!-- Loading Spinner -->
+    <div *ngIf="isLoading" class="loading-container">
+        <mat-progress-spinner mode="indeterminate" diameter="50" color="warn"></mat-progress-spinner>
+    </div>
+    <!-- Articles -->
+    <ng-container *ngIf="!isLoading && articles && articles.length > 0">
+        <mat-card *ngFor="let article of articles" class="news-card">
+            <div class="news-image"
+                [style.backgroundImage]="'url(' + (article.urlToImage || 'assets/no-image.png') + ')'">
+            </div>
+            <mat-card-header>
+                <mat-card-title>{{ article.title }}</mat-card-title>
+                <mat-card-subtitle>{{ article.source.name }}</mat-card-subtitle>
+                <button mat-icon-button color="warn" (click)="toggleBookmark(article)">
+                    <mat-icon>
+                        {{ bookmarkService.isBookmarked(article) ? 'bookmark' : 'bookmark_border' }}
+                    </mat-icon>
+                </button>
+            </mat-card-header>
+            <mat-card-content>
+                <p>{{ article.description }}</p>
+            </mat-card-content>
+            <mat-card-actions>
+                <a mat-button color="primary" (click)="openDetails(article)">Read More</a>
+            </mat-card-actions>
+        </mat-card>
+    </ng-container>
+
+    <!-- No results message -->
+    <div *ngIf="!isLoading && (!articles || articles.length === 0)" class="no-results">
+        <p>No news articles found</p>
+    </div>
+</div>

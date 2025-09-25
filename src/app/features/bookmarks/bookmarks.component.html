@@ -1,0 +1,28 @@
+<div class="news-grid">
+  <ng-container *ngIf="bookmarks.length > 0; else noBookmarksSaved">
+    <ng-container *ngIf="filteredBookmarks && filteredBookmarks.length > 0; else noSearchResults">
+      <mat-card *ngFor="let article of filteredBookmarks" class="news-card">
+        <div class="news-image" [style.backgroundImage]="'url(' + (article.urlToImage || 'assets/no-image.png') + ')'">
+        </div>
+        <mat-card-header>
+          <mat-card-title>{{ article.title }}</mat-card-title>
+          <mat-card-subtitle>{{ article.source.name }}</mat-card-subtitle>
+        </mat-card-header>
+        <mat-card-content>
+          <p>{{ article.description }}</p>
+        </mat-card-content>
+        <mat-card-actions>
+          <a mat-button color="primary" (click)="openDetails(article)">Read More</a>
+        </mat-card-actions>
+      </mat-card>
+    </ng-container>
+  </ng-container>
+
+  <ng-template #noBookmarksSaved>
+    <p class="no-bookmarks">No bookmarks yet 😢</p>
+  </ng-template>
+
+  <ng-template #noSearchResults>
+    <p class="no-bookmarks">No bookmarks match your search 🔎</p>
+  </ng-template>
+</div>

@@ -1,0 +1,1504 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "source": {
+        "id": null,
+        "name": "CNN"
+      },
+      "author": "Olivia Brown",
+      "title": "Olympics 2025: Highlights from Opening Ceremony",
+      "description": "Olympics 2025: Highlights from Opening Ceremony — Experts say this could change the landscape of sports.",
+      "url": "https://news.example.com/sports/1",
+      "urlToImage": "https://picsum.photos/seed/sports1/600/400",
+      "publishedAt": "2025-09-25T05:01:50.266Z",
+      "content": "Olympics 2025: Highlights from Opening Ceremony — Experts say this could change the landscape of sports. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "sports"
+    },
+    {
+      "id": 2,
+      "source": {
+        "id": null,
+        "name": "National Geographic"
+      },
+      "author": "Emma Johnson",
+      "title": "Breakthrough in Cancer Treatment Announced",
+      "description": "Breakthrough in Cancer Treatment Announced — Experts say this could change the landscape of health.",
+      "url": "https://news.example.com/health/2",
+      "urlToImage": "https://picsum.photos/seed/health2/600/400",
+      "publishedAt": "2025-09-25T04:01:50.283Z",
+      "content": "Breakthrough in Cancer Treatment Announced — Experts say this could change the landscape of health. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "health"
+    },
+    {
+      "id": 3,
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "Michael Lee",
+      "title": "Tips for Maintaining Mental Health During Stress",
+      "description": "Tips for Maintaining Mental Health During Stress — Experts say this could change the landscape of health.",
+      "url": "https://news.example.com/health/3",
+      "urlToImage": "https://picsum.photos/seed/health3/600/400",
+      "publishedAt": "2025-09-25T03:01:50.283Z",
+      "content": "Tips for Maintaining Mental Health During Stress — Experts say this could change the landscape of health. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "health"
+    },
+    {
+      "id": 4,
+      "source": {
+        "id": null,
+        "name": "Healthline"
+      },
+      "author": "William Wilson",
+      "title": "Startup Raises $50M in Series A Funding",
+      "description": "Startup Raises $50M in Series A Funding — Experts say this could change the landscape of business.",
+      "url": "https://news.example.com/business/4",
+      "urlToImage": "https://picsum.photos/seed/business4/600/400",
+      "publishedAt": "2025-09-25T02:01:50.283Z",
+      "content": "Startup Raises $50M in Series A Funding — Experts say this could change the landscape of business. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "business"
+    },
+    {
+      "id": 5,
+      "source": {
+        "id": null,
+        "name": "Healthline"
+      },
+      "author": "Emma Johnson",
+      "title": "Blockbuster Movie Breaks Box Office Records",
+      "description": "Blockbuster Movie Breaks Box Office Records — Experts say this could change the landscape of entertainment.",
+      "url": "https://news.example.com/entertainment/5",
+      "urlToImage": "https://picsum.photos/seed/entertainment5/600/400",
+      "publishedAt": "2025-09-25T01:01:50.283Z",
+      "content": "Blockbuster Movie Breaks Box Office Records — Experts say this could change the landscape of entertainment. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "entertainment"
+    },
+    {
+      "id": 6,
+      "source": {
+        "id": null,
+        "name": "National Geographic"
+      },
+      "author": "Liam Martinez",
+      "title": "Tips for Maintaining Mental Health During Stress",
+      "description": "Tips for Maintaining Mental Health During Stress — Experts say this could change the landscape of health.",
+      "url": "https://news.example.com/health/6",
+      "urlToImage": "https://picsum.photos/seed/health6/600/400",
+      "publishedAt": "2025-09-25T00:01:50.283Z",
+      "content": "Tips for Maintaining Mental Health During Stress — Experts say this could change the landscape of health. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "health"
+    },
+    {
+      "id": 7,
+      "source": {
+        "id": null,
+        "name": "CNN"
+      },
+      "author": "William Wilson",
+      "title": "Researchers Unlock Secrets of Human DNA",
+      "description": "Researchers Unlock Secrets of Human DNA — Experts say this could change the landscape of science.",
+      "url": "https://news.example.com/science/7",
+      "urlToImage": "https://picsum.photos/seed/science7/600/400",
+      "publishedAt": "2025-09-24T23:01:50.283Z",
+      "content": "Researchers Unlock Secrets of Human DNA — Experts say this could change the landscape of science. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "science"
+    },
+    {
+      "id": 8,
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "William Wilson",
+      "title": "Global Inflation Fears Ease as Oil Prices Drop",
+      "description": "Global Inflation Fears Ease as Oil Prices Drop — Experts say this could change the landscape of business.",
+      "url": "https://news.example.com/business/8",
+      "urlToImage": "https://picsum.photos/seed/business8/600/400",
+      "publishedAt": "2025-09-24T22:01:50.283Z",
+      "content": "Global Inflation Fears Ease as Oil Prices Drop — Experts say this could change the landscape of business. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "business"
+    },
+    {
+      "id": 9,
+      "source": {
+        "id": null,
+        "name": "CNN"
+      },
+      "author": "Liam Martinez",
+      "title": "Tech Giant Launches Next-Gen Smartphone",
+      "description": "Tech Giant Launches Next-Gen Smartphone — Experts say this could change the landscape of technology.",
+      "url": "https://news.example.com/technology/9",
+      "urlToImage": "https://picsum.photos/seed/technology9/600/400",
+      "publishedAt": "2025-09-24T21:01:50.283Z",
+      "content": "Tech Giant Launches Next-Gen Smartphone — Experts say this could change the landscape of technology. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "technology"
+    },
+    {
+      "id": 10,
+      "source": {
+        "id": null,
+        "name": "ESPN"
+      },
+      "author": "William Wilson",
+      "title": "Stock Markets Rally Amid Economic Optimism",
+      "description": "Stock Markets Rally Amid Economic Optimism — Experts say this could change the landscape of business.",
+      "url": "https://news.example.com/business/10",
+      "urlToImage": "https://picsum.photos/seed/business10/600/400",
+      "publishedAt": "2025-09-24T20:01:50.284Z",
+      "content": "Stock Markets Rally Amid Economic Optimism — Experts say this could change the landscape of business. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "business"
+    },
+    {
+      "id": 11,
+      "source": {
+        "id": null,
+        "name": "ESPN"
+      },
+      "author": "Olivia Brown",
+      "title": "Famous Singer Releases Surprise Album",
+      "description": "Famous Singer Releases Surprise Album — Experts say this could change the landscape of entertainment.",
+      "url": "https://news.example.com/entertainment/11",
+      "urlToImage": "https://picsum.photos/seed/entertainment11/600/400",
+      "publishedAt": "2025-09-24T19:01:50.284Z",
+      "content": "Famous Singer Releases Surprise Album — Experts say this could change the landscape of entertainment. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "entertainment"
+    },
+    {
+      "id": 12,
+      "source": {
+        "id": null,
+        "name": "ESPN"
+      },
+      "author": "Liam Martinez",
+      "title": "Researchers Unlock Secrets of Human DNA",
+      "description": "Researchers Unlock Secrets of Human DNA — Experts say this could change the landscape of science.",
+      "url": "https://news.example.com/science/12",
+      "urlToImage": "https://picsum.photos/seed/science12/600/400",
+      "publishedAt": "2025-09-24T18:01:50.284Z",
+      "content": "Researchers Unlock Secrets of Human DNA — Experts say this could change the landscape of science. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "science"
+    },
+    {
+      "id": 13,
+      "source": {
+        "id": null,
+        "name": "Healthline"
+      },
+      "author": "Liam Martinez",
+      "title": "Olympics 2025: Highlights from Opening Ceremony",
+      "description": "Olympics 2025: Highlights from Opening Ceremony — Experts say this could change the landscape of sports.",
+      "url": "https://news.example.com/sports/13",
+      "urlToImage": "https://picsum.photos/seed/sports13/600/400",
+      "publishedAt": "2025-09-24T17:01:50.284Z",
+      "content": "Olympics 2025: Highlights from Opening Ceremony — Experts say this could change the landscape of sports. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "sports"
+    },
+    {
+      "id": 14,
+      "source": {
+        "id": null,
+        "name": "Reuters"
+      },
+      "author": "Olivia Brown",
+      "title": "Citizens Celebrate National Holiday with Parades",
+      "description": "Citizens Celebrate National Holiday with Parades — Experts say this could change the landscape of general.",
+      "url": "https://news.example.com/general/14",
+      "urlToImage": "https://picsum.photos/seed/general14/600/400",
+      "publishedAt": "2025-09-24T16:01:50.284Z",
+      "content": "Citizens Celebrate National Holiday with Parades — Experts say this could change the landscape of general. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "general"
+    },
+    {
+      "id": 15,
+      "source": {
+        "id": null,
+        "name": "Reuters"
+      },
+      "author": "Liam Martinez",
+      "title": "Breakthrough in Cancer Treatment Announced",
+      "description": "Breakthrough in Cancer Treatment Announced — Experts say this could change the landscape of health.",
+      "url": "https://news.example.com/health/15",
+      "urlToImage": "https://picsum.photos/seed/health15/600/400",
+      "publishedAt": "2025-09-24T15:01:50.284Z",
+      "content": "Breakthrough in Cancer Treatment Announced — Experts say this could change the landscape of health. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "health"
+    },
+    {
+      "id": 16,
+      "source": {
+        "id": null,
+        "name": "ESPN"
+      },
+      "author": "Sophia Davis",
+      "title": "Breakthrough in Cancer Treatment Announced",
+      "description": "Breakthrough in Cancer Treatment Announced — Experts say this could change the landscape of health.",
+      "url": "https://news.example.com/health/16",
+      "urlToImage": "https://picsum.photos/seed/health16/600/400",
+      "publishedAt": "2025-09-24T14:01:50.284Z",
+      "content": "Breakthrough in Cancer Treatment Announced — Experts say this could change the landscape of health. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "health"
+    },
+    {
+      "id": 17,
+      "source": {
+        "id": null,
+        "name": "ESPN"
+      },
+      "author": "Sophia Davis",
+      "title": "NASA Discovers Potentially Habitable Exoplanet",
+      "description": "NASA Discovers Potentially Habitable Exoplanet — Experts say this could change the landscape of science.",
+      "url": "https://news.example.com/science/17",
+      "urlToImage": "https://picsum.photos/seed/science17/600/400",
+      "publishedAt": "2025-09-24T13:01:50.284Z",
+      "content": "NASA Discovers Potentially Habitable Exoplanet — Experts say this could change the landscape of science. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "science"
+    },
+    {
+      "id": 18,
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "John Smith",
+      "title": "Olympics 2025: Highlights from Opening Ceremony",
+      "description": "Olympics 2025: Highlights from Opening Ceremony — Experts say this could change the landscape of sports.",
+      "url": "https://news.example.com/sports/18",
+      "urlToImage": "https://picsum.photos/seed/sports18/600/400",
+      "publishedAt": "2025-09-24T12:01:50.284Z",
+      "content": "Olympics 2025: Highlights from Opening Ceremony — Experts say this could change the landscape of sports. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "sports"
+    },
+    {
+      "id": 19,
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Ava Taylor",
+      "title": "Blockbuster Movie Breaks Box Office Records",
+      "description": "Blockbuster Movie Breaks Box Office Records — Experts say this could change the landscape of entertainment.",
+      "url": "https://news.example.com/entertainment/19",
+      "urlToImage": "https://picsum.photos/seed/entertainment19/600/400",
+      "publishedAt": "2025-09-24T11:01:50.284Z",
+      "content": "Blockbuster Movie Breaks Box Office Records — Experts say this could change the landscape of entertainment. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "entertainment"
+    },
+    {
+      "id": 20,
+      "source": {
+        "id": null,
+        "name": "National Geographic"
+      },
+      "author": "Liam Martinez",
+      "title": "Doctors Warn About Rising Flu Cases This Season",
+      "description": "Doctors Warn About Rising Flu Cases This Season — Experts say this could change the landscape of health.",
+      "url": "https://news.example.com/health/20",
+      "urlToImage": "https://picsum.photos/seed/health20/600/400",
+      "publishedAt": "2025-09-24T10:01:50.284Z",
+      "content": "Doctors Warn About Rising Flu Cases This Season — Experts say this could change the landscape of health. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "health"
+    },
+    {
+      "id": 21,
+      "source": {
+        "id": null,
+        "name": "Reuters"
+      },
+      "author": "Emma Johnson",
+      "title": "Award-Winning Actor Announces Retirement",
+      "description": "Award-Winning Actor Announces Retirement — Experts say this could change the landscape of entertainment.",
+      "url": "https://news.example.com/entertainment/21",
+      "urlToImage": "https://picsum.photos/seed/entertainment21/600/400",
+      "publishedAt": "2025-09-24T09:01:50.284Z",
+      "content": "Award-Winning Actor Announces Retirement — Experts say this could change the landscape of entertainment. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "entertainment"
+    },
+    {
+      "id": 22,
+      "source": {
+        "id": null,
+        "name": "ESPN"
+      },
+      "author": "Ava Taylor",
+      "title": "Tips for Maintaining Mental Health During Stress",
+      "description": "Tips for Maintaining Mental Health During Stress — Experts say this could change the landscape of health.",
+      "url": "https://news.example.com/health/22",
+      "urlToImage": "https://picsum.photos/seed/health22/600/400",
+      "publishedAt": "2025-09-24T08:01:50.284Z",
+      "content": "Tips for Maintaining Mental Health During Stress — Experts say this could change the landscape of health. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "health"
+    },
+    {
+      "id": 23,
+      "source": {
+        "id": null,
+        "name": "Healthline"
+      },
+      "author": "William Wilson",
+      "title": "Stock Markets Rally Amid Economic Optimism",
+      "description": "Stock Markets Rally Amid Economic Optimism — Experts say this could change the landscape of business.",
+      "url": "https://news.example.com/business/23",
+      "urlToImage": "https://picsum.photos/seed/business23/600/400",
+      "publishedAt": "2025-09-24T07:01:50.284Z",
+      "content": "Stock Markets Rally Amid Economic Optimism — Experts say this could change the landscape of business. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "business"
+    },
+    {
+      "id": 24,
+      "source": {
+        "id": null,
+        "name": "National Geographic"
+      },
+      "author": "Olivia Brown",
+      "title": "Government Introduces New Policy Reforms",
+      "description": "Government Introduces New Policy Reforms — Experts say this could change the landscape of general.",
+      "url": "https://news.example.com/general/24",
+      "urlToImage": "https://picsum.photos/seed/general24/600/400",
+      "publishedAt": "2025-09-24T06:01:50.284Z",
+      "content": "Government Introduces New Policy Reforms — Experts say this could change the landscape of general. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "general"
+    },
+    {
+      "id": 25,
+      "source": {
+        "id": null,
+        "name": "ESPN"
+      },
+      "author": "John Smith",
+      "title": "Record-Breaking Marathon Run Stuns Fans",
+      "description": "Record-Breaking Marathon Run Stuns Fans — Experts say this could change the landscape of sports.",
+      "url": "https://news.example.com/sports/25",
+      "urlToImage": "https://picsum.photos/seed/sports25/600/400",
+      "publishedAt": "2025-09-24T05:01:50.284Z",
+      "content": "Record-Breaking Marathon Run Stuns Fans — Experts say this could change the landscape of sports. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "sports"
+    },
+    {
+      "id": 26,
+      "source": {
+        "id": null,
+        "name": "Reuters"
+      },
+      "author": "Ava Taylor",
+      "title": "Stock Markets Rally Amid Economic Optimism",
+      "description": "Stock Markets Rally Amid Economic Optimism — Experts say this could change the landscape of business.",
+      "url": "https://news.example.com/business/26",
+      "urlToImage": "https://picsum.photos/seed/business26/600/400",
+      "publishedAt": "2025-09-24T04:01:50.284Z",
+      "content": "Stock Markets Rally Amid Economic Optimism — Experts say this could change the landscape of business. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "business"
+    },
+    {
+      "id": 27,
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Emma Johnson",
+      "title": "Record-Breaking Marathon Run Stuns Fans",
+      "description": "Record-Breaking Marathon Run Stuns Fans — Experts say this could change the landscape of sports.",
+      "url": "https://news.example.com/sports/27",
+      "urlToImage": "https://picsum.photos/seed/sports27/600/400",
+      "publishedAt": "2025-09-24T03:01:50.284Z",
+      "content": "Record-Breaking Marathon Run Stuns Fans — Experts say this could change the landscape of sports. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "sports"
+    },
+    {
+      "id": 28,
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Olivia Brown",
+      "title": "Olympics 2025: Highlights from Opening Ceremony",
+      "description": "Olympics 2025: Highlights from Opening Ceremony — Experts say this could change the landscape of sports.",
+      "url": "https://news.example.com/sports/28",
+      "urlToImage": "https://picsum.photos/seed/sports28/600/400",
+      "publishedAt": "2025-09-24T02:01:50.284Z",
+      "content": "Olympics 2025: Highlights from Opening Ceremony — Experts say this could change the landscape of sports. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "sports"
+    },
+    {
+      "id": 29,
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Emma Johnson",
+      "title": "Global Inflation Fears Ease as Oil Prices Drop",
+      "description": "Global Inflation Fears Ease as Oil Prices Drop — Experts say this could change the landscape of business.",
+      "url": "https://news.example.com/business/29",
+      "urlToImage": "https://picsum.photos/seed/business29/600/400",
+      "publishedAt": "2025-09-24T01:01:50.284Z",
+      "content": "Global Inflation Fears Ease as Oil Prices Drop — Experts say this could change the landscape of business. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "business"
+    },
+    {
+      "id": 30,
+      "source": {
+        "id": null,
+        "name": "Reuters"
+      },
+      "author": "Sophia Davis",
+      "title": "Tech Giant Launches Next-Gen Smartphone",
+      "description": "Tech Giant Launches Next-Gen Smartphone — Experts say this could change the landscape of technology.",
+      "url": "https://news.example.com/technology/30",
+      "urlToImage": "https://picsum.photos/seed/technology30/600/400",
+      "publishedAt": "2025-09-24T00:01:50.284Z",
+      "content": "Tech Giant Launches Next-Gen Smartphone — Experts say this could change the landscape of technology. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "technology"
+    },
+    {
+      "id": 31,
+      "source": {
+        "id": null,
+        "name": "National Geographic"
+      },
+      "author": "Sophia Davis",
+      "title": "Record-Breaking Marathon Run Stuns Fans",
+      "description": "Record-Breaking Marathon Run Stuns Fans — Experts say this could change the landscape of sports.",
+      "url": "https://news.example.com/sports/31",
+      "urlToImage": "https://picsum.photos/seed/sports31/600/400",
+      "publishedAt": "2025-09-23T23:01:50.284Z",
+      "content": "Record-Breaking Marathon Run Stuns Fans — Experts say this could change the landscape of sports. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "sports"
+    },
+    {
+      "id": 32,
+      "source": {
+        "id": null,
+        "name": "ESPN"
+      },
+      "author": "William Wilson",
+      "title": "Startup Raises $50M in Series A Funding",
+      "description": "Startup Raises $50M in Series A Funding — Experts say this could change the landscape of business.",
+      "url": "https://news.example.com/business/32",
+      "urlToImage": "https://picsum.photos/seed/business32/600/400",
+      "publishedAt": "2025-09-23T22:01:50.284Z",
+      "content": "Startup Raises $50M in Series A Funding — Experts say this could change the landscape of business. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "business"
+    },
+    {
+      "id": 33,
+      "source": {
+        "id": null,
+        "name": "ESPN"
+      },
+      "author": "Michael Lee",
+      "title": "Blockbuster Movie Breaks Box Office Records",
+      "description": "Blockbuster Movie Breaks Box Office Records — Experts say this could change the landscape of entertainment.",
+      "url": "https://news.example.com/entertainment/33",
+      "urlToImage": "https://picsum.photos/seed/entertainment33/600/400",
+      "publishedAt": "2025-09-23T21:01:50.284Z",
+      "content": "Blockbuster Movie Breaks Box Office Records — Experts say this could change the landscape of entertainment. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "entertainment"
+    },
+    {
+      "id": 34,
+      "source": {
+        "id": null,
+        "name": "Healthline"
+      },
+      "author": "Michael Lee",
+      "title": "Tech Giant Launches Next-Gen Smartphone",
+      "description": "Tech Giant Launches Next-Gen Smartphone — Experts say this could change the landscape of technology.",
+      "url": "https://news.example.com/technology/34",
+      "urlToImage": "https://picsum.photos/seed/technology34/600/400",
+      "publishedAt": "2025-09-23T20:01:50.284Z",
+      "content": "Tech Giant Launches Next-Gen Smartphone — Experts say this could change the landscape of technology. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "technology"
+    },
+    {
+      "id": 35,
+      "source": {
+        "id": null,
+        "name": "Reuters"
+      },
+      "author": "Ava Taylor",
+      "title": "Star Player Leads Team to Championship Victory",
+      "description": "Star Player Leads Team to Championship Victory — Experts say this could change the landscape of sports.",
+      "url": "https://news.example.com/sports/35",
+      "urlToImage": "https://picsum.photos/seed/sports35/600/400",
+      "publishedAt": "2025-09-23T19:01:50.284Z",
+      "content": "Star Player Leads Team to Championship Victory — Experts say this could change the landscape of sports. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "sports"
+    },
+    {
+      "id": 36,
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "Sophia Davis",
+      "title": "Community Unites for Local Charity Event",
+      "description": "Community Unites for Local Charity Event — Experts say this could change the landscape of general.",
+      "url": "https://news.example.com/general/36",
+      "urlToImage": "https://picsum.photos/seed/general36/600/400",
+      "publishedAt": "2025-09-23T18:01:50.284Z",
+      "content": "Community Unites for Local Charity Event — Experts say this could change the landscape of general. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "general"
+    },
+    {
+      "id": 37,
+      "source": {
+        "id": null,
+        "name": "CNN"
+      },
+      "author": "Liam Martinez",
+      "title": "Olympics 2025: Highlights from Opening Ceremony",
+      "description": "Olympics 2025: Highlights from Opening Ceremony — Experts say this could change the landscape of sports.",
+      "url": "https://news.example.com/sports/37",
+      "urlToImage": "https://picsum.photos/seed/sports37/600/400",
+      "publishedAt": "2025-09-23T17:01:50.284Z",
+      "content": "Olympics 2025: Highlights from Opening Ceremony — Experts say this could change the landscape of sports. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "sports"
+    },
+    {
+      "id": 38,
+      "source": {
+        "id": null,
+        "name": "CNN"
+      },
+      "author": "Ava Taylor",
+      "title": "Citizens Celebrate National Holiday with Parades",
+      "description": "Citizens Celebrate National Holiday with Parades — Experts say this could change the landscape of general.",
+      "url": "https://news.example.com/general/38",
+      "urlToImage": "https://picsum.photos/seed/general38/600/400",
+      "publishedAt": "2025-09-23T16:01:50.284Z",
+      "content": "Citizens Celebrate National Holiday with Parades — Experts say this could change the landscape of general. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "general"
+    },
+    {
+      "id": 39,
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "John Smith",
+      "title": "Researchers Unlock Secrets of Human DNA",
+      "description": "Researchers Unlock Secrets of Human DNA — Experts say this could change the landscape of science.",
+      "url": "https://news.example.com/science/39",
+      "urlToImage": "https://picsum.photos/seed/science39/600/400",
+      "publishedAt": "2025-09-23T15:01:50.284Z",
+      "content": "Researchers Unlock Secrets of Human DNA — Experts say this could change the landscape of science. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "science"
+    },
+    {
+      "id": 40,
+      "source": {
+        "id": null,
+        "name": "National Geographic"
+      },
+      "author": "John Smith",
+      "title": "Record-Breaking Marathon Run Stuns Fans",
+      "description": "Record-Breaking Marathon Run Stuns Fans — Experts say this could change the landscape of sports.",
+      "url": "https://news.example.com/sports/40",
+      "urlToImage": "https://picsum.photos/seed/sports40/600/400",
+      "publishedAt": "2025-09-23T14:01:50.284Z",
+      "content": "Record-Breaking Marathon Run Stuns Fans — Experts say this could change the landscape of sports. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "sports"
+    },
+    {
+      "id": 41,
+      "source": {
+        "id": null,
+        "name": "National Geographic"
+      },
+      "author": "Ava Taylor",
+      "title": "Olympics 2025: Highlights from Opening Ceremony",
+      "description": "Olympics 2025: Highlights from Opening Ceremony — Experts say this could change the landscape of sports.",
+      "url": "https://news.example.com/sports/41",
+      "urlToImage": "https://picsum.photos/seed/sports41/600/400",
+      "publishedAt": "2025-09-23T13:01:50.284Z",
+      "content": "Olympics 2025: Highlights from Opening Ceremony — Experts say this could change the landscape of sports. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "sports"
+    },
+    {
+      "id": 42,
+      "source": {
+        "id": null,
+        "name": "Healthline"
+      },
+      "author": "Olivia Brown",
+      "title": "Star Player Leads Team to Championship Victory",
+      "description": "Star Player Leads Team to Championship Victory — Experts say this could change the landscape of sports.",
+      "url": "https://news.example.com/sports/42",
+      "urlToImage": "https://picsum.photos/seed/sports42/600/400",
+      "publishedAt": "2025-09-23T12:01:50.284Z",
+      "content": "Star Player Leads Team to Championship Victory — Experts say this could change the landscape of sports. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "sports"
+    },
+    {
+      "id": 43,
+      "source": {
+        "id": null,
+        "name": "Reuters"
+      },
+      "author": "Ava Taylor",
+      "title": "Cybersecurity Experts Warn of New Threats",
+      "description": "Cybersecurity Experts Warn of New Threats — Experts say this could change the landscape of technology.",
+      "url": "https://news.example.com/technology/43",
+      "urlToImage": "https://picsum.photos/seed/technology43/600/400",
+      "publishedAt": "2025-09-23T11:01:50.284Z",
+      "content": "Cybersecurity Experts Warn of New Threats — Experts say this could change the landscape of technology. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "technology"
+    },
+    {
+      "id": 44,
+      "source": {
+        "id": null,
+        "name": "Healthline"
+      },
+      "author": "William Wilson",
+      "title": "Researchers Unlock Secrets of Human DNA",
+      "description": "Researchers Unlock Secrets of Human DNA — Experts say this could change the landscape of science.",
+      "url": "https://news.example.com/science/44",
+      "urlToImage": "https://picsum.photos/seed/science44/600/400",
+      "publishedAt": "2025-09-23T10:01:50.284Z",
+      "content": "Researchers Unlock Secrets of Human DNA — Experts say this could change the landscape of science. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "science"
+    },
+    {
+      "id": 45,
+      "source": {
+        "id": null,
+        "name": "Reuters"
+      },
+      "author": "Olivia Brown",
+      "title": "Global Inflation Fears Ease as Oil Prices Drop",
+      "description": "Global Inflation Fears Ease as Oil Prices Drop — Experts say this could change the landscape of business.",
+      "url": "https://news.example.com/business/45",
+      "urlToImage": "https://picsum.photos/seed/business45/600/400",
+      "publishedAt": "2025-09-23T09:01:50.284Z",
+      "content": "Global Inflation Fears Ease as Oil Prices Drop — Experts say this could change the landscape of business. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "business"
+    },
+    {
+      "id": 46,
+      "source": {
+        "id": null,
+        "name": "TechCrunch"
+      },
+      "author": "Michael Lee",
+      "title": "New Breakthrough in Quantum Computing",
+      "description": "New Breakthrough in Quantum Computing — Experts say this could change the landscape of science.",
+      "url": "https://news.example.com/science/46",
+      "urlToImage": "https://picsum.photos/seed/science46/600/400",
+      "publishedAt": "2025-09-23T08:01:50.284Z",
+      "content": "New Breakthrough in Quantum Computing — Experts say this could change the landscape of science. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "science"
+    },
+    {
+      "id": 47,
+      "source": {
+        "id": null,
+        "name": "National Geographic"
+      },
+      "author": "Liam Martinez",
+      "title": "Breakthrough in Cancer Treatment Announced",
+      "description": "Breakthrough in Cancer Treatment Announced — Experts say this could change the landscape of health.",
+      "url": "https://news.example.com/health/47",
+      "urlToImage": "https://picsum.photos/seed/health47/600/400",
+      "publishedAt": "2025-09-23T07:01:50.284Z",
+      "content": "Breakthrough in Cancer Treatment Announced — Experts say this could change the landscape of health. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "health"
+    },
+    {
+      "id": 48,
+      "source": {
+        "id": null,
+        "name": "National Geographic"
+      },
+      "author": "William Wilson",
+      "title": "Breakthrough in Cancer Treatment Announced",
+      "description": "Breakthrough in Cancer Treatment Announced — Experts say this could change the landscape of health.",
+      "url": "https://news.example.com/health/48",
+      "urlToImage": "https://picsum.photos/seed/health48/600/400",
+      "publishedAt": "2025-09-23T06:01:50.284Z",
+      "content": "Breakthrough in Cancer Treatment Announced — Experts say this could change the landscape of health. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "health"
+    },
+    {
+      "id": 49,
+      "source": {
+        "id": null,
+        "name": "CNN"
+      },
+      "author": "Michael Lee",
+      "title": "Government Introduces New Policy Reforms",
+      "description": "Government Introduces New Policy Reforms — Experts say this could change the landscape of general.",
+      "url": "https://news.example.com/general/49",
+      "urlToImage": "https://picsum.photos/seed/general49/600/400",
+      "publishedAt": "2025-09-23T05:01:50.284Z",
+      "content": "Government Introduces New Policy Reforms — Experts say this could change the landscape of general. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "general"
+    },
+    {
+      "id": 50,
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "Ava Taylor",
+      "title": "Stock Markets Rally Amid Economic Optimism",
+      "description": "Stock Markets Rally Amid Economic Optimism — Experts say this could change the landscape of business.",
+      "url": "https://news.example.com/business/50",
+      "urlToImage": "https://picsum.photos/seed/business50/600/400",
+      "publishedAt": "2025-09-23T04:01:50.284Z",
+      "content": "Stock Markets Rally Amid Economic Optimism — Experts say this could change the landscape of business. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "business"
+    },
+    {
+      "id": 51,
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "Michael Lee",
+      "title": "Cybersecurity Experts Warn of New Threats",
+      "description": "Cybersecurity Experts Warn of New Threats — Experts say this could change the landscape of technology.",
+      "url": "https://news.example.com/technology/51",
+      "urlToImage": "https://picsum.photos/seed/technology51/600/400",
+      "publishedAt": "2025-09-23T03:01:50.284Z",
+      "content": "Cybersecurity Experts Warn of New Threats — Experts say this could change the landscape of technology. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "technology"
+    },
+    {
+      "id": 52,
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "Ava Taylor",
+      "title": "Citizens Celebrate National Holiday with Parades",
+      "description": "Citizens Celebrate National Holiday with Parades — Experts say this could change the landscape of general.",
+      "url": "https://news.example.com/general/52",
+      "urlToImage": "https://picsum.photos/seed/general52/600/400",
+      "publishedAt": "2025-09-23T02:01:50.284Z",
+      "content": "Citizens Celebrate National Holiday with Parades — Experts say this could change the landscape of general. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "general"
+    },
+    {
+      "id": 53,
+      "source": {
+        "id": null,
+        "name": "Reuters"
+      },
+      "author": "Ava Taylor",
+      "title": "Global Inflation Fears Ease as Oil Prices Drop",
+      "description": "Global Inflation Fears Ease as Oil Prices Drop — Experts say this could change the landscape of business.",
+      "url": "https://news.example.com/business/53",
+      "urlToImage": "https://picsum.photos/seed/business53/600/400",
+      "publishedAt": "2025-09-23T01:01:50.284Z",
+      "content": "Global Inflation Fears Ease as Oil Prices Drop — Experts say this could change the landscape of business. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "business"
+    },
+    {
+      "id": 54,
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Olivia Brown",
+      "title": "Researchers Unlock Secrets of Human DNA",
+      "description": "Researchers Unlock Secrets of Human DNA — Experts say this could change the landscape of science.",
+      "url": "https://news.example.com/science/54",
+      "urlToImage": "https://picsum.photos/seed/science54/600/400",
+      "publishedAt": "2025-09-23T00:01:50.284Z",
+      "content": "Researchers Unlock Secrets of Human DNA — Experts say this could change the landscape of science. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "science"
+    },
+    {
+      "id": 55,
+      "source": {
+        "id": null,
+        "name": "National Geographic"
+      },
+      "author": "Sophia Davis",
+      "title": "New Breakthrough in Quantum Computing",
+      "description": "New Breakthrough in Quantum Computing — Experts say this could change the landscape of science.",
+      "url": "https://news.example.com/science/55",
+      "urlToImage": "https://picsum.photos/seed/science55/600/400",
+      "publishedAt": "2025-09-22T23:01:50.284Z",
+      "content": "New Breakthrough in Quantum Computing — Experts say this could change the landscape of science. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "science"
+    },
+    {
+      "id": 56,
+      "source": {
+        "id": null,
+        "name": "TechCrunch"
+      },
+      "author": "Michael Lee",
+      "title": "Star Player Leads Team to Championship Victory",
+      "description": "Star Player Leads Team to Championship Victory — Experts say this could change the landscape of sports.",
+      "url": "https://news.example.com/sports/56",
+      "urlToImage": "https://picsum.photos/seed/sports56/600/400",
+      "publishedAt": "2025-09-22T22:01:50.284Z",
+      "content": "Star Player Leads Team to Championship Victory — Experts say this could change the landscape of sports. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "sports"
+    },
+    {
+      "id": 57,
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "Olivia Brown",
+      "title": "Tips for Maintaining Mental Health During Stress",
+      "description": "Tips for Maintaining Mental Health During Stress — Experts say this could change the landscape of health.",
+      "url": "https://news.example.com/health/57",
+      "urlToImage": "https://picsum.photos/seed/health57/600/400",
+      "publishedAt": "2025-09-22T21:01:50.284Z",
+      "content": "Tips for Maintaining Mental Health During Stress — Experts say this could change the landscape of health. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "health"
+    },
+    {
+      "id": 58,
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "John Smith",
+      "title": "Blockbuster Movie Breaks Box Office Records",
+      "description": "Blockbuster Movie Breaks Box Office Records — Experts say this could change the landscape of entertainment.",
+      "url": "https://news.example.com/entertainment/58",
+      "urlToImage": "https://picsum.photos/seed/entertainment58/600/400",
+      "publishedAt": "2025-09-22T20:01:50.284Z",
+      "content": "Blockbuster Movie Breaks Box Office Records — Experts say this could change the landscape of entertainment. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "entertainment"
+    },
+    {
+      "id": 59,
+      "source": {
+        "id": null,
+        "name": "National Geographic"
+      },
+      "author": "Olivia Brown",
+      "title": "Tips for Maintaining Mental Health During Stress",
+      "description": "Tips for Maintaining Mental Health During Stress — Experts say this could change the landscape of health.",
+      "url": "https://news.example.com/health/59",
+      "urlToImage": "https://picsum.photos/seed/health59/600/400",
+      "publishedAt": "2025-09-22T19:01:50.284Z",
+      "content": "Tips for Maintaining Mental Health During Stress — Experts say this could change the landscape of health. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "health"
+    },
+    {
+      "id": 60,
+      "source": {
+        "id": null,
+        "name": "CNN"
+      },
+      "author": "Olivia Brown",
+      "title": "Researchers Unlock Secrets of Human DNA",
+      "description": "Researchers Unlock Secrets of Human DNA — Experts say this could change the landscape of science.",
+      "url": "https://news.example.com/science/60",
+      "urlToImage": "https://picsum.photos/seed/science60/600/400",
+      "publishedAt": "2025-09-22T18:01:50.284Z",
+      "content": "Researchers Unlock Secrets of Human DNA — Experts say this could change the landscape of science. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "science"
+    },
+    {
+      "id": 61,
+      "source": {
+        "id": null,
+        "name": "Healthline"
+      },
+      "author": "Ava Taylor",
+      "title": "Community Unites for Local Charity Event",
+      "description": "Community Unites for Local Charity Event — Experts say this could change the landscape of general.",
+      "url": "https://news.example.com/general/61",
+      "urlToImage": "https://picsum.photos/seed/general61/600/400",
+      "publishedAt": "2025-09-22T17:01:50.284Z",
+      "content": "Community Unites for Local Charity Event — Experts say this could change the landscape of general. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "general"
+    },
+    {
+      "id": 62,
+      "source": {
+        "id": null,
+        "name": "National Geographic"
+      },
+      "author": "Emma Johnson",
+      "title": "AI Revolutionizes Software Development",
+      "description": "AI Revolutionizes Software Development — Experts say this could change the landscape of technology.",
+      "url": "https://news.example.com/technology/62",
+      "urlToImage": "https://picsum.photos/seed/technology62/600/400",
+      "publishedAt": "2025-09-22T16:01:50.284Z",
+      "content": "AI Revolutionizes Software Development — Experts say this could change the landscape of technology. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "technology"
+    },
+    {
+      "id": 63,
+      "source": {
+        "id": null,
+        "name": "National Geographic"
+      },
+      "author": "Olivia Brown",
+      "title": "Stock Markets Rally Amid Economic Optimism",
+      "description": "Stock Markets Rally Amid Economic Optimism — Experts say this could change the landscape of business.",
+      "url": "https://news.example.com/business/63",
+      "urlToImage": "https://picsum.photos/seed/business63/600/400",
+      "publishedAt": "2025-09-22T15:01:50.284Z",
+      "content": "Stock Markets Rally Amid Economic Optimism — Experts say this could change the landscape of business. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "business"
+    },
+    {
+      "id": 64,
+      "source": {
+        "id": null,
+        "name": "Reuters"
+      },
+      "author": "Emma Johnson",
+      "title": "Cybersecurity Experts Warn of New Threats",
+      "description": "Cybersecurity Experts Warn of New Threats — Experts say this could change the landscape of technology.",
+      "url": "https://news.example.com/technology/64",
+      "urlToImage": "https://picsum.photos/seed/technology64/600/400",
+      "publishedAt": "2025-09-22T14:01:50.284Z",
+      "content": "Cybersecurity Experts Warn of New Threats — Experts say this could change the landscape of technology. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "technology"
+    },
+    {
+      "id": 65,
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "John Smith",
+      "title": "Star Player Leads Team to Championship Victory",
+      "description": "Star Player Leads Team to Championship Victory — Experts say this could change the landscape of sports.",
+      "url": "https://news.example.com/sports/65",
+      "urlToImage": "https://picsum.photos/seed/sports65/600/400",
+      "publishedAt": "2025-09-22T13:01:50.284Z",
+      "content": "Star Player Leads Team to Championship Victory — Experts say this could change the landscape of sports. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "sports"
+    },
+    {
+      "id": 66,
+      "source": {
+        "id": null,
+        "name": "National Geographic"
+      },
+      "author": "William Wilson",
+      "title": "AI Revolutionizes Software Development",
+      "description": "AI Revolutionizes Software Development — Experts say this could change the landscape of technology.",
+      "url": "https://news.example.com/technology/66",
+      "urlToImage": "https://picsum.photos/seed/technology66/600/400",
+      "publishedAt": "2025-09-22T12:01:50.284Z",
+      "content": "AI Revolutionizes Software Development — Experts say this could change the landscape of technology. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "technology"
+    },
+    {
+      "id": 67,
+      "source": {
+        "id": null,
+        "name": "Healthline"
+      },
+      "author": "Olivia Brown",
+      "title": "Global Inflation Fears Ease as Oil Prices Drop",
+      "description": "Global Inflation Fears Ease as Oil Prices Drop — Experts say this could change the landscape of business.",
+      "url": "https://news.example.com/business/67",
+      "urlToImage": "https://picsum.photos/seed/business67/600/400",
+      "publishedAt": "2025-09-22T11:01:50.284Z",
+      "content": "Global Inflation Fears Ease as Oil Prices Drop — Experts say this could change the landscape of business. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "business"
+    },
+    {
+      "id": 68,
+      "source": {
+        "id": null,
+        "name": "National Geographic"
+      },
+      "author": "Olivia Brown",
+      "title": "Tech Giant Launches Next-Gen Smartphone",
+      "description": "Tech Giant Launches Next-Gen Smartphone — Experts say this could change the landscape of technology.",
+      "url": "https://news.example.com/technology/68",
+      "urlToImage": "https://picsum.photos/seed/technology68/600/400",
+      "publishedAt": "2025-09-22T10:01:50.284Z",
+      "content": "Tech Giant Launches Next-Gen Smartphone — Experts say this could change the landscape of technology. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "technology"
+    },
+    {
+      "id": 69,
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "Ava Taylor",
+      "title": "Tech Giant Launches Next-Gen Smartphone",
+      "description": "Tech Giant Launches Next-Gen Smartphone — Experts say this could change the landscape of technology.",
+      "url": "https://news.example.com/technology/69",
+      "urlToImage": "https://picsum.photos/seed/technology69/600/400",
+      "publishedAt": "2025-09-22T09:01:50.284Z",
+      "content": "Tech Giant Launches Next-Gen Smartphone — Experts say this could change the landscape of technology. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "technology"
+    },
+    {
+      "id": 70,
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Ava Taylor",
+      "title": "Star Player Leads Team to Championship Victory",
+      "description": "Star Player Leads Team to Championship Victory — Experts say this could change the landscape of sports.",
+      "url": "https://news.example.com/sports/70",
+      "urlToImage": "https://picsum.photos/seed/sports70/600/400",
+      "publishedAt": "2025-09-22T08:01:50.284Z",
+      "content": "Star Player Leads Team to Championship Victory — Experts say this could change the landscape of sports. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "sports"
+    },
+    {
+      "id": 71,
+      "source": {
+        "id": null,
+        "name": "CNN"
+      },
+      "author": "Sophia Davis",
+      "title": "Cybersecurity Experts Warn of New Threats",
+      "description": "Cybersecurity Experts Warn of New Threats — Experts say this could change the landscape of technology.",
+      "url": "https://news.example.com/technology/71",
+      "urlToImage": "https://picsum.photos/seed/technology71/600/400",
+      "publishedAt": "2025-09-22T07:01:50.284Z",
+      "content": "Cybersecurity Experts Warn of New Threats — Experts say this could change the landscape of technology. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "technology"
+    },
+    {
+      "id": 72,
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Michael Lee",
+      "title": "Olympics 2025: Highlights from Opening Ceremony",
+      "description": "Olympics 2025: Highlights from Opening Ceremony — Experts say this could change the landscape of sports.",
+      "url": "https://news.example.com/sports/72",
+      "urlToImage": "https://picsum.photos/seed/sports72/600/400",
+      "publishedAt": "2025-09-22T06:01:50.284Z",
+      "content": "Olympics 2025: Highlights from Opening Ceremony — Experts say this could change the landscape of sports. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "sports"
+    },
+    {
+      "id": 73,
+      "source": {
+        "id": null,
+        "name": "CNN"
+      },
+      "author": "William Wilson",
+      "title": "Blockbuster Movie Breaks Box Office Records",
+      "description": "Blockbuster Movie Breaks Box Office Records — Experts say this could change the landscape of entertainment.",
+      "url": "https://news.example.com/entertainment/73",
+      "urlToImage": "https://picsum.photos/seed/entertainment73/600/400",
+      "publishedAt": "2025-09-22T05:01:50.284Z",
+      "content": "Blockbuster Movie Breaks Box Office Records — Experts say this could change the landscape of entertainment. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "entertainment"
+    },
+    {
+      "id": 74,
+      "source": {
+        "id": null,
+        "name": "TechCrunch"
+      },
+      "author": "Liam Martinez",
+      "title": "Olympics 2025: Highlights from Opening Ceremony",
+      "description": "Olympics 2025: Highlights from Opening Ceremony — Experts say this could change the landscape of sports.",
+      "url": "https://news.example.com/sports/74",
+      "urlToImage": "https://picsum.photos/seed/sports74/600/400",
+      "publishedAt": "2025-09-22T04:01:50.284Z",
+      "content": "Olympics 2025: Highlights from Opening Ceremony — Experts say this could change the landscape of sports. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "sports"
+    },
+    {
+      "id": 75,
+      "source": {
+        "id": null,
+        "name": "National Geographic"
+      },
+      "author": "Emma Johnson",
+      "title": "Blockbuster Movie Breaks Box Office Records",
+      "description": "Blockbuster Movie Breaks Box Office Records — Experts say this could change the landscape of entertainment.",
+      "url": "https://news.example.com/entertainment/75",
+      "urlToImage": "https://picsum.photos/seed/entertainment75/600/400",
+      "publishedAt": "2025-09-22T03:01:50.284Z",
+      "content": "Blockbuster Movie Breaks Box Office Records — Experts say this could change the landscape of entertainment. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "entertainment"
+    },
+    {
+      "id": 76,
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "John Smith",
+      "title": "NASA Discovers Potentially Habitable Exoplanet",
+      "description": "NASA Discovers Potentially Habitable Exoplanet — Experts say this could change the landscape of science.",
+      "url": "https://news.example.com/science/76",
+      "urlToImage": "https://picsum.photos/seed/science76/600/400",
+      "publishedAt": "2025-09-22T02:01:50.284Z",
+      "content": "NASA Discovers Potentially Habitable Exoplanet — Experts say this could change the landscape of science. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "science"
+    },
+    {
+      "id": 77,
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "Emma Johnson",
+      "title": "Government Introduces New Policy Reforms",
+      "description": "Government Introduces New Policy Reforms — Experts say this could change the landscape of general.",
+      "url": "https://news.example.com/general/77",
+      "urlToImage": "https://picsum.photos/seed/general77/600/400",
+      "publishedAt": "2025-09-22T01:01:50.284Z",
+      "content": "Government Introduces New Policy Reforms — Experts say this could change the landscape of general. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "general"
+    },
+    {
+      "id": 78,
+      "source": {
+        "id": null,
+        "name": "TechCrunch"
+      },
+      "author": "John Smith",
+      "title": "Researchers Unlock Secrets of Human DNA",
+      "description": "Researchers Unlock Secrets of Human DNA — Experts say this could change the landscape of science.",
+      "url": "https://news.example.com/science/78",
+      "urlToImage": "https://picsum.photos/seed/science78/600/400",
+      "publishedAt": "2025-09-22T00:01:50.284Z",
+      "content": "Researchers Unlock Secrets of Human DNA — Experts say this could change the landscape of science. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "science"
+    },
+    {
+      "id": 79,
+      "source": {
+        "id": null,
+        "name": "TechCrunch"
+      },
+      "author": "Liam Martinez",
+      "title": "Olympics 2025: Highlights from Opening Ceremony",
+      "description": "Olympics 2025: Highlights from Opening Ceremony — Experts say this could change the landscape of sports.",
+      "url": "https://news.example.com/sports/79",
+      "urlToImage": "https://picsum.photos/seed/sports79/600/400",
+      "publishedAt": "2025-09-21T23:01:50.284Z",
+      "content": "Olympics 2025: Highlights from Opening Ceremony — Experts say this could change the landscape of sports. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "sports"
+    },
+    {
+      "id": 80,
+      "source": {
+        "id": null,
+        "name": "National Geographic"
+      },
+      "author": "John Smith",
+      "title": "Stock Markets Rally Amid Economic Optimism",
+      "description": "Stock Markets Rally Amid Economic Optimism — Experts say this could change the landscape of business.",
+      "url": "https://news.example.com/business/80",
+      "urlToImage": "https://picsum.photos/seed/business80/600/400",
+      "publishedAt": "2025-09-21T22:01:50.284Z",
+      "content": "Stock Markets Rally Amid Economic Optimism — Experts say this could change the landscape of business. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "business"
+    },
+    {
+      "id": 81,
+      "source": {
+        "id": null,
+        "name": "CNN"
+      },
+      "author": "Ava Taylor",
+      "title": "Breakthrough in Cancer Treatment Announced",
+      "description": "Breakthrough in Cancer Treatment Announced — Experts say this could change the landscape of health.",
+      "url": "https://news.example.com/health/81",
+      "urlToImage": "https://picsum.photos/seed/health81/600/400",
+      "publishedAt": "2025-09-21T21:01:50.284Z",
+      "content": "Breakthrough in Cancer Treatment Announced — Experts say this could change the landscape of health. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "health"
+    },
+    {
+      "id": 82,
+      "source": {
+        "id": null,
+        "name": "TechCrunch"
+      },
+      "author": "Sophia Davis",
+      "title": "Famous Singer Releases Surprise Album",
+      "description": "Famous Singer Releases Surprise Album — Experts say this could change the landscape of entertainment.",
+      "url": "https://news.example.com/entertainment/82",
+      "urlToImage": "https://picsum.photos/seed/entertainment82/600/400",
+      "publishedAt": "2025-09-21T20:01:50.284Z",
+      "content": "Famous Singer Releases Surprise Album — Experts say this could change the landscape of entertainment. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "entertainment"
+    },
+    {
+      "id": 83,
+      "source": {
+        "id": null,
+        "name": "National Geographic"
+      },
+      "author": "Sophia Davis",
+      "title": "Award-Winning Actor Announces Retirement",
+      "description": "Award-Winning Actor Announces Retirement — Experts say this could change the landscape of entertainment.",
+      "url": "https://news.example.com/entertainment/83",
+      "urlToImage": "https://picsum.photos/seed/entertainment83/600/400",
+      "publishedAt": "2025-09-21T19:01:50.284Z",
+      "content": "Award-Winning Actor Announces Retirement — Experts say this could change the landscape of entertainment. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "entertainment"
+    },
+    {
+      "id": 84,
+      "source": {
+        "id": null,
+        "name": "National Geographic"
+      },
+      "author": "Michael Lee",
+      "title": "Citizens Celebrate National Holiday with Parades",
+      "description": "Citizens Celebrate National Holiday with Parades — Experts say this could change the landscape of general.",
+      "url": "https://news.example.com/general/84",
+      "urlToImage": "https://picsum.photos/seed/general84/600/400",
+      "publishedAt": "2025-09-21T18:01:50.284Z",
+      "content": "Citizens Celebrate National Holiday with Parades — Experts say this could change the landscape of general. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "general"
+    },
+    {
+      "id": 85,
+      "source": {
+        "id": null,
+        "name": "Reuters"
+      },
+      "author": "Liam Martinez",
+      "title": "New Breakthrough in Quantum Computing",
+      "description": "New Breakthrough in Quantum Computing — Experts say this could change the landscape of science.",
+      "url": "https://news.example.com/science/85",
+      "urlToImage": "https://picsum.photos/seed/science85/600/400",
+      "publishedAt": "2025-09-21T17:01:50.284Z",
+      "content": "New Breakthrough in Quantum Computing — Experts say this could change the landscape of science. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "science"
+    },
+    {
+      "id": 86,
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Sophia Davis",
+      "title": "Doctors Warn About Rising Flu Cases This Season",
+      "description": "Doctors Warn About Rising Flu Cases This Season — Experts say this could change the landscape of health.",
+      "url": "https://news.example.com/health/86",
+      "urlToImage": "https://picsum.photos/seed/health86/600/400",
+      "publishedAt": "2025-09-21T16:01:50.284Z",
+      "content": "Doctors Warn About Rising Flu Cases This Season — Experts say this could change the landscape of health. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "health"
+    },
+    {
+      "id": 87,
+      "source": {
+        "id": null,
+        "name": "National Geographic"
+      },
+      "author": "Michael Lee",
+      "title": "Tech Giant Launches Next-Gen Smartphone",
+      "description": "Tech Giant Launches Next-Gen Smartphone — Experts say this could change the landscape of technology.",
+      "url": "https://news.example.com/technology/87",
+      "urlToImage": "https://picsum.photos/seed/technology87/600/400",
+      "publishedAt": "2025-09-21T15:01:50.284Z",
+      "content": "Tech Giant Launches Next-Gen Smartphone — Experts say this could change the landscape of technology. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "technology"
+    },
+    {
+      "id": 88,
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Michael Lee",
+      "title": "Government Introduces New Policy Reforms",
+      "description": "Government Introduces New Policy Reforms — Experts say this could change the landscape of general.",
+      "url": "https://news.example.com/general/88",
+      "urlToImage": "https://picsum.photos/seed/general88/600/400",
+      "publishedAt": "2025-09-21T14:01:50.284Z",
+      "content": "Government Introduces New Policy Reforms — Experts say this could change the landscape of general. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "general"
+    },
+    {
+      "id": 89,
+      "source": {
+        "id": null,
+        "name": "ESPN"
+      },
+      "author": "Michael Lee",
+      "title": "New Breakthrough in Quantum Computing",
+      "description": "New Breakthrough in Quantum Computing — Experts say this could change the landscape of science.",
+      "url": "https://news.example.com/science/89",
+      "urlToImage": "https://picsum.photos/seed/science89/600/400",
+      "publishedAt": "2025-09-21T13:01:50.284Z",
+      "content": "New Breakthrough in Quantum Computing — Experts say this could change the landscape of science. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "science"
+    },
+    {
+      "id": 90,
+      "source": {
+        "id": null,
+        "name": "National Geographic"
+      },
+      "author": "John Smith",
+      "title": "Tech Giant Launches Next-Gen Smartphone",
+      "description": "Tech Giant Launches Next-Gen Smartphone — Experts say this could change the landscape of technology.",
+      "url": "https://news.example.com/technology/90",
+      "urlToImage": "https://picsum.photos/seed/technology90/600/400",
+      "publishedAt": "2025-09-21T12:01:50.284Z",
+      "content": "Tech Giant Launches Next-Gen Smartphone — Experts say this could change the landscape of technology. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "technology"
+    },
+    {
+      "id": 91,
+      "source": {
+        "id": null,
+        "name": "CNN"
+      },
+      "author": "Liam Martinez",
+      "title": "New Breakthrough in Quantum Computing",
+      "description": "New Breakthrough in Quantum Computing — Experts say this could change the landscape of science.",
+      "url": "https://news.example.com/science/91",
+      "urlToImage": "https://picsum.photos/seed/science91/600/400",
+      "publishedAt": "2025-09-21T11:01:50.284Z",
+      "content": "New Breakthrough in Quantum Computing — Experts say this could change the landscape of science. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "science"
+    },
+    {
+      "id": 92,
+      "source": {
+        "id": null,
+        "name": "National Geographic"
+      },
+      "author": "John Smith",
+      "title": "Startup Raises $50M in Series A Funding",
+      "description": "Startup Raises $50M in Series A Funding — Experts say this could change the landscape of business.",
+      "url": "https://news.example.com/business/92",
+      "urlToImage": "https://picsum.photos/seed/business92/600/400",
+      "publishedAt": "2025-09-21T10:01:50.284Z",
+      "content": "Startup Raises $50M in Series A Funding — Experts say this could change the landscape of business. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "business"
+    },
+    {
+      "id": 93,
+      "source": {
+        "id": null,
+        "name": "Healthline"
+      },
+      "author": "Michael Lee",
+      "title": "Award-Winning Actor Announces Retirement",
+      "description": "Award-Winning Actor Announces Retirement — Experts say this could change the landscape of entertainment.",
+      "url": "https://news.example.com/entertainment/93",
+      "urlToImage": "https://picsum.photos/seed/entertainment93/600/400",
+      "publishedAt": "2025-09-21T09:01:50.284Z",
+      "content": "Award-Winning Actor Announces Retirement — Experts say this could change the landscape of entertainment. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "entertainment"
+    },
+    {
+      "id": 94,
+      "source": {
+        "id": null,
+        "name": "Healthline"
+      },
+      "author": "Sophia Davis",
+      "title": "Tech Giant Launches Next-Gen Smartphone",
+      "description": "Tech Giant Launches Next-Gen Smartphone — Experts say this could change the landscape of technology.",
+      "url": "https://news.example.com/technology/94",
+      "urlToImage": "https://picsum.photos/seed/technology94/600/400",
+      "publishedAt": "2025-09-21T08:01:50.284Z",
+      "content": "Tech Giant Launches Next-Gen Smartphone — Experts say this could change the landscape of technology. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "technology"
+    },
+    {
+      "id": 95,
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Ava Taylor",
+      "title": "Startup Raises $50M in Series A Funding",
+      "description": "Startup Raises $50M in Series A Funding — Experts say this could change the landscape of business.",
+      "url": "https://news.example.com/business/95",
+      "urlToImage": "https://picsum.photos/seed/business95/600/400",
+      "publishedAt": "2025-09-21T07:01:50.284Z",
+      "content": "Startup Raises $50M in Series A Funding — Experts say this could change the landscape of business. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "business"
+    },
+    {
+      "id": 96,
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "William Wilson",
+      "title": "Startup Raises $50M in Series A Funding",
+      "description": "Startup Raises $50M in Series A Funding — Experts say this could change the landscape of business.",
+      "url": "https://news.example.com/business/96",
+      "urlToImage": "https://picsum.photos/seed/business96/600/400",
+      "publishedAt": "2025-09-21T06:01:50.284Z",
+      "content": "Startup Raises $50M in Series A Funding — Experts say this could change the landscape of business. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "business"
+    },
+    {
+      "id": 97,
+      "source": {
+        "id": null,
+        "name": "Healthline"
+      },
+      "author": "Emma Johnson",
+      "title": "Famous Singer Releases Surprise Album",
+      "description": "Famous Singer Releases Surprise Album — Experts say this could change the landscape of entertainment.",
+      "url": "https://news.example.com/entertainment/97",
+      "urlToImage": "https://picsum.photos/seed/entertainment97/600/400",
+      "publishedAt": "2025-09-21T05:01:50.284Z",
+      "content": "Famous Singer Releases Surprise Album — Experts say this could change the landscape of entertainment. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "entertainment"
+    },
+    {
+      "id": 98,
+      "source": {
+        "id": null,
+        "name": "TechCrunch"
+      },
+      "author": "Olivia Brown",
+      "title": "Tech Giant Launches Next-Gen Smartphone",
+      "description": "Tech Giant Launches Next-Gen Smartphone — Experts say this could change the landscape of technology.",
+      "url": "https://news.example.com/technology/98",
+      "urlToImage": "https://picsum.photos/seed/technology98/600/400",
+      "publishedAt": "2025-09-21T04:01:50.284Z",
+      "content": "Tech Giant Launches Next-Gen Smartphone — Experts say this could change the landscape of technology. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "technology"
+    },
+    {
+      "id": 99,
+      "source": {
+        "id": null,
+        "name": "National Geographic"
+      },
+      "author": "Olivia Brown",
+      "title": "Researchers Unlock Secrets of Human DNA",
+      "description": "Researchers Unlock Secrets of Human DNA — Experts say this could change the landscape of science.",
+      "url": "https://news.example.com/science/99",
+      "urlToImage": "https://picsum.photos/seed/science99/600/400",
+      "publishedAt": "2025-09-21T03:01:50.284Z",
+      "content": "Researchers Unlock Secrets of Human DNA — Experts say this could change the landscape of science. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "science"
+    },
+    {
+      "id": 100,
+      "source": {
+        "id": null,
+        "name": "National Geographic"
+      },
+      "author": "Sophia Davis",
+      "title": "Government Introduces New Policy Reforms",
+      "description": "Government Introduces New Policy Reforms — Experts say this could change the landscape of general.",
+      "url": "https://news.example.com/general/100",
+      "urlToImage": "https://picsum.photos/seed/general100/600/400",
+      "publishedAt": "2025-09-21T02:01:50.284Z",
+      "content": "Government Introduces New Policy Reforms — Experts say this could change the landscape of general. Full details have emerged as industry leaders react to the latest developments.",
+      "category": "general"
+    }
+  ]
+}

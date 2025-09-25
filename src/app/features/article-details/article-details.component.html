@@ -1,0 +1,19 @@
+<div *ngIf="article" class="article-details">
+  <div class="article-header">
+    <h1>{{ article.title }}</h1>
+    <div class="meta">
+      <span class="source">{{ article.source.name }}</span>
+      <span class="author" *ngIf="article.author">• By {{ article.author }}</span>
+      <span class="published" *ngIf="article.publishedAt">• {{ article.publishedAt | date:'medium' }}</span>
+    </div>
+  </div>
+
+  <div class="article-image">
+    <img [src]="article.urlToImage || 'assets/no-image.png'" alt="{{ article.title }}" />
+  </div>
+
+  <div class="article-content">
+    <p>{{ article.content }}</p>
+  </div>
+</div>
+
