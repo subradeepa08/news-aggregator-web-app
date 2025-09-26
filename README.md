@@ -41,7 +41,7 @@ src/
 
 ## Tech Stack
 
-- **Frontend:** Angular 15, TypeScript, HTML5, CSS3, SCSS  
+- **Frontend:** Angular 16, TypeScript, HTML5, CSS3, SCSS  
 - **UI Components:** Angular Material  
 - **State Management:** RxJS, Services  
 - **Routing:** Angular Router  
