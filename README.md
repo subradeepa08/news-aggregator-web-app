@@ -1,27 +1,66 @@
-# NewsAggregator
+# News Aggregator Web Application
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.12.
+A modern Angular application to fetch, view, and bookmark news articles from various categories. This project demonstrates Angular features like components, services, RxJS, routing, state management, and dark/light mode.
 
-## Development server
+---
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Features
 
-## Code scaffolding
+- **Fetch News Articles**: Display news by categories (Business, Technology, Sports, Health, etc.)  
+- **Search**: Search articles in Home and Bookmarks pages  
+- **Bookmarking**: Add/remove articles to bookmarks; data persisted using `localStorage`  
+- **Responsive Design**: Works on desktops, tablets, and mobile devices  
+- **Dark Mode / Light Mode**: Toggle themes using CSS variables  
+- **Article Details**: View full content for each news article  
+- **Mock Data**: Uses local JSON file; no live API required
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+---
+## 🚀 Live Demo
 
-## Build
+Check it out here: [Live Site](https://deepa-news-aggregator-app.netlify.app/home)  
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+---
 
-## Running unit tests
+## Project Structure
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+```bash
+src/
+ ├─ app/
+ │   ├─ features/
+ │   │   ├─ home/
+ │   │   ├─ bookmarks/
+ │   │   ├─ article-details/
+ │   ├─ core/services/
+ │   │   ├─ news.service.ts
+ │   │   ├─ bookmark.service.ts
+ ├─ assets/
+ │   └─ mock-news.json
 
-## Running end-to-end tests
+```
+---
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## Tech Stack
 
-## Further help
+- **Frontend:** Angular 16, TypeScript, HTML5, CSS3, SCSS  
+- **UI Components:** Angular Material  
+- **State Management:** RxJS, Services  
+- **Routing:** Angular Router  
+- **Persistence:** localStorage (for bookmarks)  
+- **Build & Deployment:** Angular CLI, Netlify  
+- **Other Features:** Dark/Light Mode with CSS variables, Responsive Design
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+---
+
+## How to Use
+1. Clone the repo:
+   
+```bash
+   git clone https://github.com/subradeepa08/news-aggregator-web-app.git
+```
+---
+## Future Improvements
+
+- Pagination / infinite scrolling for articles
+- Integrate live news API for real-time updates
+- User authentication for personal bookmarks
+- Push notifications for breaking news
