@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute, Router } from '@angular/router';
 import { NewsArticle } from 'src/app/core/services/bookmark.service';
 import { NewsService } from 'src/app/core/services/news.service';
@@ -8,7 +8,7 @@ import { NewsService } from 'src/app/core/services/news.service';
   templateUrl: './article-details.component.html',
   styleUrls: ['./article-details.component.scss']
 })
-export class ArticleDetailsComponent {
+export class ArticleDetailsComponent implements OnInit {
   article: NewsArticle | undefined;
 
   constructor(

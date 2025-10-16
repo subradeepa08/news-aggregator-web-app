@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, OnInit, OnDestroy } from '@angular/core';
 import { Router } from '@angular/router';
 import { Subject, takeUntil } from 'rxjs';
 import { BookmarkService, NewsArticle } from 'src/app/core/services/bookmark.service';
@@ -9,7 +9,7 @@ import { NewsService } from 'src/app/core/services/news.service';
   templateUrl: './bookmarks.component.html',
   styleUrls: ['./bookmarks.component.scss']
 })
-export class BookmarksComponent {
+export class BookmarksComponent implements OnInit, OnDestroy {
   bookmarks: NewsArticle[] = [];
   filteredBookmarks: NewsArticle[] = [];  // filtered based on search
   private destroy$ = new Subject<void>();

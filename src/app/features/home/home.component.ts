@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, OnInit, OnDestroy } from '@angular/core';
 import { MatSnackBar } from '@angular/material/snack-bar';
 import { Router } from '@angular/router';
 import { Subject, takeUntil } from 'rxjs';
@@ -10,7 +10,7 @@ import { NewsService } from 'src/app/core/services/news.service';
   templateUrl: './home.component.html',
   styleUrls: ['./home.component.scss']
 })
-export class HomeComponent {
+export class HomeComponent implements OnInit, OnDestroy {
   articles: NewsArticle[] = [];
   isLoading = false;
   currentCategory = '';

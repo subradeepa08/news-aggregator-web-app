@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, OnInit, OnDestroy } from '@angular/core';
 import { NewsService } from './core/services/news.service';
 import { debounceTime, distinctUntilChanged, filter, Subject, takeUntil } from 'rxjs';
 import { NavigationEnd, Router } from '@angular/router';
@@ -9,11 +9,11 @@ import { NavigationEnd, Router } from '@angular/router';
   styleUrls: ['./app.component.scss']
 })
 
-export class AppComponent {
+export class AppComponent implements OnInit, OnDestroy {
   private searchSubject = new Subject<string>();
   private destroy$ = new Subject<void>();
-  searchText: string = '';
-  currentRoute: string = '';
+  searchText = '';
+  currentRoute = '';
   isDark = false;
   isBookmarksPage = false;
 
@@ -66,7 +66,6 @@ export class AppComponent {
   }
 
   onSearchInput() {
-    console.log('onSearchInput:',this.searchText)
     this.searchSubject.next(this.searchText);
   }
 

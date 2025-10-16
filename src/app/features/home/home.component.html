@@ -1,4 +1,4 @@
-<div class="news-grid" >
+<div class="news-grid">
     <!-- Loading Spinner -->
     <div *ngIf="isLoading" class="loading-container">
         <mat-progress-spinner mode="indeterminate" diameter="50" color="warn"></mat-progress-spinner>
@@ -22,7 +22,7 @@
                 <p>{{ article.description }}</p>
             </mat-card-content>
             <mat-card-actions>
-                <a mat-button color="primary" (click)="openDetails(article)">Read More</a>
+                <button mat-button color="primary" (click)="openDetails(article)">Read More</button>
             </mat-card-actions>
         </mat-card>
     </ng-container>
